@@ -1,7 +1,20 @@
 # rn-assignment3-11146019
 rn-assignment3-11146019 project
+<<<<<<< HEAD
 
 View:
+=======
+This project contain a reactive app the was recreated from a figma design.
+it contains core components likeView
+- Text
+- ScrollView
+- TextInput
+- Stylesheet
+- Button
+- FlatList or SectionList
+- Image
+- View:
+>>>>>>> 050b3b020f474b7f9b936bacd87854ce4818e5a0
 
 Purpose: View is a fundamental building block for creating UI components in React Native.
 Usage: It's used to structure and layout content, similar to a <div> in web development.
@@ -33,4 +46,12 @@ Image:
 
 Purpose: Image is used to display images in the app.
 Usage: It's used to show icons, profile pictures, category images, or any other visual content.
+<<<<<<< HEAD
+=======
+  The app also has eight categories which are Exercise, Study, Cook, Code, 
+Travel, Read, Plan and teach. these categories have thier various functions that they perform.
+  The app also shows some ongoing projects that are currently active from the categories mentioned above.
+  
+![Screenshot 2024-06-01 150615](https://github.com/PAA-KWASI08/rn-assignment3-11146019/assets/170183141/81f19266-36df-405f-a81b-cb784c00ee14)
+>>>>>>> 050b3b020f474b7f9b936bacd87854ce4818e5a0
 
