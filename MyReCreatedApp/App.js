@@ -116,9 +116,9 @@ const styles = StyleSheet.create({
     marginTop: 15,
     width: 280,
     height: 49,
-    backgroundColor: '#fffff',
+    backgroundColor: '#ffffff',
     borderWidth: 1,
-    borderColor: '#ffff',
+    borderColor: '#fffff',
     borderRadius: 10,
   },
   searchInput: {
@@ -134,8 +134,8 @@ const styles = StyleSheet.create({
     flex:1,
     position:'absolute',
     left: 8,
-    width: 30,
-    height: 30,
+    width: 20,
+    height: 20,
   
 
   },
